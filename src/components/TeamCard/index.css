@@ -1,0 +1,25 @@
+.li-container {
+  width: 280px;
+  background-color: #ffffff33;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin: 5px;
+}
+.picture {
+  height: 120px;
+  width: 80px;
+  margin-left: -30px;
+  margin-right: 5px;
+}
+.heading {
+  font-size: 15px;
+  color: white;
+  width: 130px;
+  text-align: center;
+}

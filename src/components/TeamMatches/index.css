@@ -1,0 +1,20 @@
+.click-container {
+  background-color: #5755a7;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.banner {
+  height: 250px;
+  width: 500px;
+}
+.ul-container1 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}

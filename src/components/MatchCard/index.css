@@ -1,0 +1,27 @@
+.li-container1 {
+  background-color: #1e293b;
+  width: 200px;
+  height: 300px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+.pot {
+  height: 100px;
+  width: 100px;
+}
+
+.heading4 {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+.paragraph4 {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}

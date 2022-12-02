@@ -1,0 +1,23 @@
+.present-match {
+  width: 500px;
+  background-color: #1e293b;
+  border-radius: 10px;
+  padding: 10px;
+}
+.competing {
+  height: 100px;
+  width: 100px;
+  margin-left: 70px;
+}
+.common {
+  display: flex;
+  flex-direction: row;
+}
+.heading5 {
+  color: white;
+  font-size: 18px;
+}
+.paragraph5 {
+  color: white;
+  font-size: 15px;
+}
